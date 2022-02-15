@@ -19,7 +19,6 @@ class CraStructure extends Component {
           <h3>5)Public -index.html File</h3>
           <h3>6)Src -App.js</h3>
         </pre>
-
         <br />
         <img src={img1} alt="" />
         <img src={img2} alt="" />
